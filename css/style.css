@@ -1,0 +1,72 @@
+img {
+  max-width: 100%;
+}
+#navbar {
+  opacity: 0.7;
+  border-bottom: 3px solid #e3b04b !important;
+}
+#header {
+  background-image: url("../images/home.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 600px;
+  position: relative;
+}
+.overlay-nobootstrap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.sign-up-form h3 {
+  color: #e3b04b;
+  opacity: 0.8;
+}
+#header .container {
+  padding-top: 10rem;
+}
+input[type="text"]::placeholder {
+  color: #495057;
+}
+#header .fa-check {
+  color: #e3b04b;
+  background-color: aliceblue;
+  padding: 0.3rem;
+  border-radius: 4px;
+}
+.form-button:hover {
+  background-color: #e3b04b !important;
+  border-color: black !important;
+}
+.form-button {
+  transition: 3s;
+}
+#Explore {
+  background-color: #333333;
+  color: white;
+  text-align: center;
+  padding: 3rem 2rem;
+}
+#Explore-Connect .fa-check {
+  color: #333333;
+  background-color: #e3b04b;
+  border-radius: 5px;
+  padding: 5px;
+}
+#Explore-Connect h3,
+#Explore-Connect p {
+  color: #6c757d !important;
+}
+
+#Explore-Connect p {
+  padding-left: 3rem;
+}
+#Explore2 {
+  background-color: #e3b04b;
+  text-align: center;
+  color: white;
+  padding: 3rem 0;
+}
