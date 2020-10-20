@@ -70,3 +70,43 @@ input[type="text"]::placeholder {
   color: white;
   padding: 3rem 0;
 }
+#Create-Your-Passion {
+  background-color: #333333;
+  color: white;
+  padding: 3rem;
+}
+#Create-Your-Passion .fa-check {
+  background-color: white;
+  color: #e3b04b;
+  padding: 5px;
+  border-radius: 5px;
+}
+#Create-Your-Passion p {
+  padding-left: 3rem;
+}
+#Share {
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+  padding: 3rem 2rem;
+}
+#Share-Create h3,
+#Share-Create p {
+  color: #6c757d;
+}
+#Share-Create .fa-check {
+  background-color: #e3b04b;
+  color: #333333;
+  padding: 5px;
+  border-radius: 5px;
+}
+#Share-Create p {
+  padding-left: 3rem;
+}
+
+#footer {
+  background-color: #333333;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
